@@ -1,4 +1,4 @@
-[![MasterHead](https://https:www.google.com/search?q=python+programming+wallpaper+4k&sca_esv=1b487df0b959fb49&tbm=isch&sxsrf=ACQVn0_gUA2TosnMtqXwocnMP6kh1XYH0g%3A1708027364899&source=hp&biw=1659&bih=945&ei5G3OZYDGNPSH7NYPxLKr-AM&iflsig=ANes7DEAAAAAZc579K028_YmrmuU5Qg5sCwDtgQmfglW&udm=&oq=python+program&gs_lp=EgNpbWciDnB5dGhvbiBwcm9ncmFtKgIIADIEECMYJzIEECMYJzIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESL8lUP8FWIchcAR4AJABAZgB5QKgAZUWqgEIMC4xNC4yLjG4AQPIAQD4AQGKAgtnd3Mtd2l6LWltZ6gCCsICBxAjGOoCGCfCAggQABiABBixA8ICBBAAGB4&sclient=img#imgrc=waPpNAGlQ8xr_M)
+_YmrmuU5Qg5sCwDtgQmfglW&udm=&oq=python+program&gs_lp=EgNpbWciDnB5dGhvbiBwcm9ncmFtKgIIADIEECMYJzIEECMYJzIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESL8lUP8FWIchcAR4AJABAZgB5QKgAZUWqgEIMC4xNC4yLjG4AQPIAQD4AQGKAgtnd3Mtd2l6LWltZ6gCCsICBxAjGOoCGCfCAggQABiABBixA8ICBBAAGB4&sclient=img#imgrc=waPpNAGlQ8xr_M)
 <h1 align="center">Hi 👋, I'm Emine</h1>
 <h3 align="center">A passionate software programming from Turkey</h3>
 
@@ -15,4 +15,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eminekurucu&show_icons=true&locale=en" alt="eminekurucu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eminekurucu&" alt="eminekurucu" /></p>
+
 
