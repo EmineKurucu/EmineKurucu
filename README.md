@@ -1,4 +1,5 @@
-_YmrmuU5Qg5sCwDtgQmfglW&udm=&oq=python+program&gs_lp=EgNpbWciDnB5dGhvbiBwcm9ncmFtKgIIADIEECMYJzIEECMYJzIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESL8lUP8FWIchcAR4AJABAZgB5QKgAZUWqgEIMC4xNC4yLjG4AQPIAQD4AQGKAgtnd3Mtd2l6LWltZ6gCCsICBxAjGOoCGCfCAggQABiABBixA8ICBBAAGB4&sclient=img#imgrc=waPpNAGlQ8xr_M)
+
+
 <h1 align="center">Hi 👋, I'm Emine</h1>
 <h3 align="center">A passionate software programming from Turkey</h3>
 
