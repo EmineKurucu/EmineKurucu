@@ -1,4 +1,4 @@
-[![MasterHead](https://https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.linkedin.com%2Fin%2Femine-kurucu-a799672a3&psig=AOvVaw2YLAKH8Tf6rDi0_9sJa5ie&ust=1708113190994000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCftdKProQDFQAAAAAdAAAAABAE)
+[![MasterHead](https://https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fthirstymag.com%2FHD-Wallpapers-and-Backgrounds-3627392.html&psig=AOvVaw1Pp2aXsQOobn6iqvm7sxDo&ust=1708113496353000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCx8OOQroQDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Emine</h1>
 <h3 align="center">A passionate software programming from Turkey</h3>
 
@@ -15,4 +15,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eminekurucu&show_icons=true&locale=en" alt="eminekurucu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eminekurucu&" alt="eminekurucu" /></p>
+
 
