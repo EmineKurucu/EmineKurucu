@@ -1,4 +1,4 @@
- [![MasterHead](https://tr.pinterest.com/pin/677862181437223369/)
+
 <h1 align="center">Hi 👋, I'm Emine</h1>
 <h3 align="center">A passionate software programming from Turkey</h3>
 
