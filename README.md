@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emine</h1>
-<h3 align="center">A passionate software programming from Turkey</h3>
+<h3 align="center">I am a software engineering student at Haliç University.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
