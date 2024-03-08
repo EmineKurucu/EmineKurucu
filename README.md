@@ -1,11 +1,14 @@
+[![MasterHead](https://in.pinterest.com/pin/951526227501147875/)
 <h1 align="center">Hi 👋, I'm Emine</h1>
 <h3 align="center">A passionate software programming from Turkey</h3>
 
-- 🔭 I’m currently working on C/C++ **C/C++**
+- 🔭 I’m currently working on **C/C++**
 
-- 🌱 I’m currently learning C++ **C++**
+- 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me emine.kurucu.81@gmail.com **emine.kurucu.81@gmail.com**
+- 💬 Ask me about **Python/C/C++ programming**
+
+- 📫 How to reach me **emine.kurucu.81@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eminekurucu&show_icons=true&locale=en" alt="eminekurucu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eminekurucu&" alt="eminekurucu" /></p>
-
