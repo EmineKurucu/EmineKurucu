@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/KNWLy7z3zSrYgZou9)
+[![MasterHead](https://images.app.goo.gl/mXJxJbkr9kLHchoQ6)
 <h1 align="center">Hi 👋, I'm Emine</h1>
 <h3 align="center">A passionate software programming from Turkey</h3>
 
