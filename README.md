@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/dFXRS4UtL7aUsaew6)
+[![MasterHead](https://images.app.goo.gl/pe1f7eFatFJEzknM7)
 <h1 align="center">Hi 👋, I'm Emine</h1>
 <h3 align="center">A passionate software programming from Turkey</h3>
 
@@ -23,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eminekurucu&show_icons=true&locale=en" alt="eminekurucu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eminekurucu&" alt="eminekurucu" /></p>
-
