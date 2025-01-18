@@ -1,4 +1,4 @@
-[![MasterHead](https://4kwallpapers.com/images/wallpapers/hello-world-pixel-7680x4320-15168.png)
+
 <h1 align="center">Hi 👋, I'm Emine</h1>
 <h3 align="center">A passionate software programming from Turkey</h3>
 
