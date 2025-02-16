@@ -2,7 +2,7 @@
   <img src="https://ogabriel.me/images/helloworld.png" alt="helloworld">
 </div>
 <h1 align="center">Hi 👋, I'm Emine</h1>
-<h3 align="center">A passionate software programming from Turkey</h3>
+<h3 align="center">A passionate software programming from Turkey</h3> 
 
 - 🔭 I’m currently working on **Image Processing/Java**
 
