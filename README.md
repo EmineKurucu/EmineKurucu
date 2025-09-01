@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emine</h1>
 <h3 align="center">A passionate software programming from Turkey</h3>
 
-- 🔭 I’m currently working on **JavaScript/React Native**
+- 🔭 I’m currently working on **Computer Vısıon**
 
-- 🌱 I’m currently learning **Mobil Application Programming**
+- 🌱 I’m currently learning **Imag Processig/Computer Vısıon**
 
-- 💬 Ask me about **React / React Native**
+- 💬 Ask me about **Python/OpenCv**
 
 - 📫 How to reach me **emine.kurucu.81@gmail.com**
 
