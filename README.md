@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emine</h1>
 <h3 align="center">A passionate software programming from Turkey</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eminekurucu" alt="eminekurucu" /></a> </p>
+
 - 🔭 I’m currently working on **Computer Vision / Mobil App Development**
 
 - 🌱 I’m currently learning **OpenCv / React Native / Typescript**
